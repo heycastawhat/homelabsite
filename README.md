@@ -1,5 +1,9 @@
 # homelabsite
-Homelab management for the SlitroLab
+this is a homelab management site
+you already know what you’re doing
+run it however you want
+vibe with the data
+
 
 ---
 # How to run
