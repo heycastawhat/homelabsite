@@ -14,4 +14,4 @@ or
 bun dev
 ```
 2. Go to localhost:3000 in your browser
-3. Absorb the site
+3. Absorb the site and its information
