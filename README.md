@@ -6,11 +6,11 @@ Homelab management for the SlitroLab
 1. Pick your poison
 ```
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
-# or
+or
 bun dev
 ```
 2. Go to localhost:3000 in your browser
